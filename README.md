@@ -10,7 +10,7 @@ Aquí publicaré mis proyectos personales.
 
 ## SKILLS
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,aws,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,python,aws,git,github)](https://skillicons.dev)
 
 🌱 Aprendiendo actualmente...
 [![My Skills](https://skillicons.dev/icons?i=js,bootstrap,php)](https://skillicons.dev)
