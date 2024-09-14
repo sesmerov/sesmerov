@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1&width=435&lines=Diego+Sesmero;Desarrollador+de+Aplicaciones+Web)](https://git.io/typing-svg)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1&width=435&lines=Diego+Sesmero;Desarrollador+de+Aplicaciones+Web">
+
 
 # Hi there 👋
 
@@ -10,10 +12,15 @@ Aquí publicaré mis proyectos personales.
 
 ## SKILLS
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,python,aws,git,github)](https://skillicons.dev)
+<div align="center">
+	<img src="https://skillicons.dev/icons?i=html,css,java,python,aws,git,github">
+</div>
 
-🌱 Aprendiendo actualmente...
-[![My Skills](https://skillicons.dev/icons?i=js,bootstrap,php)](https://skillicons.dev)
+
+#### 🌱 Aprendiendo actualmente...
+<div align="center">
+	<img src="https://skillicons.dev/icons?i=js,bootstrap,php">
+</div>
 
 
 
