@@ -13,13 +13,13 @@ Aquí publicaré mis proyectos personales.
 ## SKILLS
 
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=html,css,java,python,aws,git,github">
+	<img src="https://skillicons.dev/icons?i=html,css,php,java,python,aws,git,github">
 </div>
 
 
 #### 🌱 Aprendiendo actualmente...
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=js,bootstrap,php">
+	<img src="https://skillicons.dev/icons?i=js,bootstrap,tailwind">
 </div>
 
 
