@@ -1,6 +1,5 @@
-<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1&width=435&lines=Diego+Sesmero;Desarrollador+de+Aplicaciones+Web">
-
+<div align="center">
 
 # Hi there 👋
 
